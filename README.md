@@ -7,7 +7,6 @@
 <body>
 
 <center>
-    <img src="profile.jpg" width="150" height="150" alt="Profile">
     <h1>Palichart Yampram</h1>
     <h3>Business Computer Student</h3>
 </center>
