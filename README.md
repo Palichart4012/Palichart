@@ -1,82 +1,73 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:'Poppins',sans-serif;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My CV</title>
+</head>
+<body>
 
-body{
-    background:#eef2ff;
-    padding:40px;
-}
+<center>
+    <img src="profile.jpg" width="150" height="150" alt="Profile">
+    <h1>Palichart Yampram</h1>
+    <h3>Business Computer Student</h3>
+</center>
 
-.container{
-    max-width:850px;
-    margin:auto;
-    background:#fff;
-    border-radius:15px;
-    box-shadow:0 10px 30px rgba(0,0,0,.12);
-    overflow:hidden;
-}
+<hr>
 
-.header{
-    background:linear-gradient(135deg,#4f46e5,#7c3aed);
-    color:white;
-    text-align:center;
-    padding:35px;
-}
+<h2>About Me</h2>
+<p>
+Hello! My name is <strong>Palichart Yampram</strong>.
+I am a Business Computer student at Mahasarakham University.
+I enjoy web development, database systems, and learning new technologies.
+</p>
 
-.header img{
-    width:130px;
-    height:130px;
-    border-radius:50%;
-    border:4px solid #fff;
-    object-fit:cover;
-    margin-bottom:15px;
-}
+<hr>
 
-.content{
-    padding:30px;
-}
+<h2>Education</h2>
 
-.section{
-    margin-bottom:25px;
-}
+<p>
+<strong>Business Computer</strong><br>
+Mahasarakham University
+</p>
 
-.section h2{
-    color:#4f46e5;
-    border-left:5px solid #4f46e5;
-    padding-left:10px;
-    margin-bottom:10px;
-    font-size:22px;
-}
+<hr>
 
-.section p{
-    color:#555;
-    line-height:1.8;
-}
+<h2>Skills</h2>
 
-ul{
-    padding-left:20px;
-}
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Python</li>
+    <li>Oracle SQL</li>
+    <li>Git & GitHub</li>
+</ul>
 
-li{
-    margin:8px 0;
-}
+<hr>
 
-.contact a{
-    color:#4f46e5;
-    text-decoration:none;
-    font-weight:600;
-}
+<h2>Projects</h2>
 
-.contact a:hover{
-    text-decoration:underline;
-}
+<ul>
+    <li>Portfolio Website</li>
+    <li>Football News Website</li>
+    <li>ERP Project</li>
+</ul>
 
-footer{
-    background:#f4f4f4;
-    text-align:center;
-    padding:15px;
-    color:#666;
-}
+<hr>
+
+<h2>Contact</h2>
+
+<p>
+<strong>GitHub :</strong>
+<a href="https://github.com/Palichart4012" target="_blank">
+github.com/Palichart4012
+</a>
+</p>
+
+<hr>
+
+<center>
+    <p>© 2026 Palichart Yampram</p>
+</center>
+
+</body>
+</html>
