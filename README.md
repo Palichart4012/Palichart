@@ -113,7 +113,7 @@ footer{
 <h2>About Me</h2>
 
 <p>
-Hello! My name is <strong>Palichart Yampram</strong>.
+Hello! My name is <strong> Palichart Yampram </strong>.
 I am a Business Computer student at Mahasarakham University.
 I enjoy web development, database systems, and learning new technologies.
 </p>
